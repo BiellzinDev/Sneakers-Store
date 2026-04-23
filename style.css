@@ -89,6 +89,7 @@ a img{
     background-image: url(./images/image-product-1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     flex-direction: row;
     justify-content: space-around;
     gap: 17rem;
